@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+results/*
+logs/*
+.env
+*.jsonl
+*.pkl
+*.pt
+*.pth
+*.ckpt
+*.mp4
+*.png
+*.jpg
+.DS_Store
+
+!results/.gitkeep
